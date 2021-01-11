@@ -1,0 +1,27 @@
+{
+  "name": "coffee-bot-discord",
+  "version": "1.0.0",
+  "description": "Discord Bot that automatically finds a coffee chat partner for you on a set time interval.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "googleapis": "^39.2.0",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertG-H/coffee-bot-discord.git"
+  },
+  "author": "Robert Graham-Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobertG-H/coffee-bot-discord/issues"
+  },
+  "homepage": "https://github.com/RobertG-H/coffee-bot-discord#readme"
+}

@@ -1,0 +1,5 @@
+node_modules/
+CCN.pem
+.env
+token.json
+credentials.json
