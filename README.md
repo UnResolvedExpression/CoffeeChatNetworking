@@ -10,3 +10,6 @@ Posts in the `#weekly-coffee-chats` text channel every Monday at 10AM est with c
 # Commands
 * `c!signup` Gives you the `Coffee Chatter` role. This means you will get matched up once a week.
 * `c!leave` Removes the `Coffee Chatter` role.
+
+The source code for the bot comes from
+https://github.com/RobertG-H/coffee-bot-discord
